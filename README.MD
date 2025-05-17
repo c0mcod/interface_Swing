@@ -25,6 +25,7 @@ br.com.cadastro
 ├── dao        # Classe CadastroDAO com métodos do CRUD
 ├── model      # Classe Cadastro (modelo com id, nome e email)
 └── view       # Classe Interface com os componentes gráficos (Swing)
+├── functions  # Classe contendo os metodos que são utilizados dentro dos componentes
 
 ````
 
@@ -50,7 +51,8 @@ CREATE TABLE usuarios (
 
 ## Capturas de Tela
 
-*Adicione imagens da interface aqui futuramente para demonstrar o funcionamento.*
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## Autor
 
